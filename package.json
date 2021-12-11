@@ -2,6 +2,7 @@
   "name": "build-test-gh-pages",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dddoublek.github.io/build-test-gh-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
